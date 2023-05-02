@@ -1,2 +1,4 @@
 # uib-project-030523
-for my uib final project
+display uib final project here
+create a portfolio/photography page
+create an html and use scss for styling
